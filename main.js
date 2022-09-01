@@ -38,27 +38,7 @@ function draw() {
     }
 }
 
-function gotof() {
 
-    window.location.href = "fruits.html"
-    img1="fruit.jpeg"
-}
-
-function gotoc() {
-
-    window.location.href = "city.html"
-    img1="city.jpeg"
-}
-function gotofarm() {
-
-    window.location.href = "farm.html"
-    img1="https://grist.org/wp-content/uploads/2022/02/USDA-CRP-cows-farm-e1644361600714.jpg"
-}
-function gotor() {
-
-    window.location.href = "room.html"
-    img1="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAgFKtD_-EEZNfuOuOyZzCFXIG7ZR23aILbYavF09kiJTmv3fjYlci7-A_eewjoEWzY9c&usqp=CAU"
-}
 
 function model_loaded() {
     console.log("Model Is Loaded")
